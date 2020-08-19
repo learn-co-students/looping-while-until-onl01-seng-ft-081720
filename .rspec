@@ -1,2 +1,7 @@
---color
+def: while_using
+counter = 0
+  puts '
+while counter < 10
+
+
 --require spec_helper
